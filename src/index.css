@@ -27,6 +27,8 @@ a:hover {
 body {
   margin: 0;
   display: flex;
+  background-color: #131520;
+  min-height: 100vh;
 }
 
 h1 {
